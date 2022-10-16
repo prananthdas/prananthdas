@@ -5,4 +5,4 @@ prananthdas/prananthdas is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 [![@prananath's Holopin board](https://holopin.me/prananath)](https://holopin.io/@prananath)
-[![@prananath's Holopin board](https://holopin.io/api/user/board?user=prananath)](https://holopin.io/@prananath)
+
